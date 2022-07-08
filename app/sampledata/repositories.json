@@ -1,0 +1,125 @@
+
+{
+  "data": [
+    {
+      "id": 500920326,
+      "name": "Api-Collections",
+      "owner": {
+        "login": "Dalakton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100096440?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/Dalakton/Api-Collections",
+      "description": "description"
+    },
+    {
+      "id": 510867532,
+      "name": "business-cards-app",
+      "owner": {
+        "login": "Dalakton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100096440?v=4"
+      },
+      "html_url": "https://github.com/Dalakton/business-cards-app",
+      "description": "Aplicação criada em kotlin , com o intuito de apresentar a criação de cartões de visitas, onde o usuário tem o poder de criar, listar, e compartilhar seus Cartões de Visita. Onde foi implementado como desafio , a funcionalidade de escolha de cor com o colorSeekBar (Barra de Cores). onde esta cor selecionada pelo usuário será inserida na cor de fundo do cartão de visita criado, tendo como previa na hora da seleção da cor , um texto quando ao rolar a barra de cores , sua cor é mudada e o usuário poderá ter noção de como ficaria.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 461627381,
+      "name": "DesafioCapgemini-Repositorio",
+      "owner": {
+        "login": "Dalakton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100096440?v=4"
+      },
+      "html_url": "https://github.com/Dalakton/DesafioCapgemini-Repositorio",
+      "description": "Description",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 498937267,
+      "name": "dio-desafio-github-repository",
+      "owner": {
+        "login": "Dalakton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100096440?v=4"
+      },
+      "html_url": "https://github.com/Dalakton/dio-desafio-github-repository",
+      "description": "Desafio de projeto passado no modulo de git/github no botcamp santander.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 501806271,
+      "name": "matches-simulator-api",
+      "owner": {
+        "login": "Dalakton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100096440?v=4"
+      },
+      "html_url": "https://github.com/Dalakton/matches-simulator-api",
+      "description": "Repositório que simula uma API REST para obtenção de partidas.",
+      "stargazers_count": 0,
+      "language": "null"
+    },
+    {
+      "id": 501054187,
+      "name": "matches-simulator-app",
+      "owner": {
+        "login": "Dalakton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100096440?v=4"
+      },
+      "html_url": "https://github.com/Dalakton/matches-simulator-app",
+      "description": "App Android Nativo de Simulação de Partidas",
+      "stargazers_count": 0,
+      "language": "Java"
+    },
+    {
+      "id": 504716312,
+      "name": "soccer-news-api",
+      "owner": {
+        "login": "Dalakton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100096440?v=4"
+      },
+      "html_url": "https://github.com/Dalakton/soccer-news-api",
+      "description": "API (provida via GitHub Pages) do App \\\"Soccer News\\\"\"",
+      "stargazers_count": 0,
+      "language": "null"
+    },
+    {
+      "id": 504703797,
+      "name": "soccer-news-app",
+      "owner": {
+        "login": "Dalakton",
+        "avatar_url": "https://avatars.githubusercontent.com/u/100096440?v=4"
+      },
+      "html_url": "https://github.com/Dalakton/soccer-news-app",
+      "description": "App Nativo Android de Noticias sobre Futebol feminino.",
+      "stargazers_count":0,
+      "language": "Java"
+    },
+    {
+      "id": 265040807,
+      "name": "Chuck-Norris-Facts",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/Chuck-Norris-Facts",
+      "description": "An Android client for the Chuck Norris facts API",
+      "stargazers_count": 5,
+      "language": "Kotlin"
+    },
+    {
+      "id": 369822554,
+      "name": "coin-converter",
+      "owner": {
+        "login": "EzequielMessore",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11234992?v=4"
+      },
+      "html_url": "https://github.com/EzequielMessore/coin-converter",
+      "description": "empty description",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    }
+  ]
+}
